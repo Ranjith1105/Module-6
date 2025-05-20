@@ -10,15 +10,24 @@ To write a Python program that demonstrates the concept of abstract classes usin
 
 ### ALGORITHM
 
-1.Start
+1.Start.
+
 2.Import the ABC and abstractmethod decorators from Python’s abc module.
-3.Create an abstract class VEHICLE:
+
+3.Create an abstract class VEHICLE.
+
 4.Define two abstract methods: start() and stop().
-5.Create a child class CAR that inherits from VEHICLE:
+
+5.Create a child class CAR that inherits from VEHICLE.
+
 6.Implement the start() and stop() methods.
-7.Create another child class BIKE that also inherits from VEHICLE:
+
+7.Create another child class BIKE that also inherits from VEHICLE.
+
 8.Implement the start() and stop() methods.
+
 9.Create objects of both CAR and BIKE and call their methods.
+
 10.End
 
 
