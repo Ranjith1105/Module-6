@@ -8,7 +8,7 @@ To write a Python program to create a `Counter` class that can increment the val
 
 ---
 
-### ALGORITHM
+### ALGORITHM:
 
 1. **Start the Program.**
 2. **Define the `Counter` class.**
