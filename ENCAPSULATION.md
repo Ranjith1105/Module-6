@@ -11,14 +11,22 @@ To write a Python program that defines a class Employee with a public method sho
 ### ALGORITHM
 
 1. Start the Program.
-2. Define a class Employee
-3.Inside the class, define the __init__() method to initialize:          
+   
+2. Define a class Employee.
+3.Inside the class, define the __init__() method to initialize:
+          
         -name
+   
         -emp_id
+   
         -designation
+   
 4.Define a public method show() to display the employee's name, ID, and designation.
+
 5.Create an object of the Employee class with sample data.
-6.Call the show() method to display the employee's details
+
+6.Call the show() method to display the employee's details.
+
 7.End the program.
 
 ---
